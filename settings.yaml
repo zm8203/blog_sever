@@ -6,7 +6,7 @@ mysql:
   user: root
   password: admin123
   log_level: dev
-logger:
+logger: 
   level: info
   prefix: '[gvb]'
   director: log
